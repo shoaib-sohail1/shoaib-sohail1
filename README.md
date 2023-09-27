@@ -5,15 +5,15 @@
 ### Connect with me:
 
  <p align="center">
-      <a href="" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/shoaib-sohail/" target="blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png"
          alt="LinkedIn" title="Visit Linkedin Profile" height="30"/></a>
-      <a href="https://wa.me/+923016508607" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="husnainsaeed00" height="30"/></a>
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="husnainsaeed00" height="30"/></a>
+      <a href="https://wa.me/+923491716494/" target="blank"><img align="center"
+         src="https://www.freepnglogos.com/uploads/whatsapp-logo-hd-18.png"
+         alt="WhatsApp" title="Contact Vis WhatsApp" height="30"/></a>
+      <a href="https://m-shoaib.com/" target="blank"><img align="center"
+         src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png"
+         alt="Website" title="Visit My Portfolio" height="30"/></a>
       <br>
     </p>
 

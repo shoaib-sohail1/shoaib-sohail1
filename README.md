@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[![go](https://camo.githubusercontent.com/704e5391e523f95dacab15520ecf2e77066e38c191058ab7e91134f3bedd2cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/shoaib-sohail/){:target="_blank" rel="noopener"}
+[![website](https://camo.githubusercontent.com/704e5391e523f95dacab15520ecf2e77066e38c191058ab7e91134f3bedd2cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/shoaib-sohail/ 'target: _blank')
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)

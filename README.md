@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
- <p align="center">
+ <p align="left">
       <a href="https://www.linkedin.com/in/shoaib-sohail/" target="blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png"
          alt="LinkedIn" title="Visit Linkedin Profile" height="30"/></a>
@@ -13,7 +13,7 @@
          alt="WhatsApp" title="Contact Vis WhatsApp" height="30"/></a>
       <a href="https://m-shoaib.com/" target="blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png"
-         alt="Website" title="Visit My Portfolio" height="30"/></a>
+         alt="Website" title="Visit My Portfolio" height="35"/></a>
       <br>
     </p>
 

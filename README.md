@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
- <p align="left">
+ <p align="left>
       <a href="https://www.linkedin.com/in/shoaib-sohail/" target="blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png"
          alt="LinkedIn" title="Visit Linkedin Profile" height="30"/></a>

@@ -28,7 +28,7 @@ As a collaborative team player, I thrive in working with others and have strong 
  - 🌱 **UI Component Libraries:** Animation Design, Material UI, and StorybookUI. 
  - 🔭 **Backend Development:** PHP, Cloud Functions, jQuery, MYSQL, Cpanel, and server management. 
  - 🥅 **Content Management System (CMS):** PHP, JavaScript, HTML/CSS, WordPress and Libraries & Frameworks.
-<hr>
+---
 
 ### Languages and Tools:
 
@@ -46,7 +46,7 @@ As a collaborative team player, I thrive in working with others and have strong 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br />
-<hr>
+---
 
 ### 💼 Work Experience 
 
@@ -101,30 +101,16 @@ As a collaborative team player, I thrive in working with others and have strong 
    <h6>Skills:</h6>
          <pre style="padding-left: 15px;">JavaScript · jQuery · Content Management Systems (CMS) · Responsive Web Design · HTML5 · Cascading Style Sheets (CSS) · Bootstrap</pre>
 
-   <img width="30px" src="https://media.licdn.com/dms/image/C4D0BAQFHz9agyy675A/company-logo_100_100/0/1635337455276?e=1703721600&v=beta&t=XeNTQ-QtTTgtfK_dGWlmJdaX1VgmnHoGibrTDL_tPoY">&nbsp; &nbsp; <strong>Freelance Web Developer</strong>
-    <p><strong>Fiverr · Full Time</strong></p>
-    <p><strong>Mar 2020 - Present</strong></p>
-    <p><strong>Pakistan · Remote</strong></p>
-    <p> Fiverr's platform connects freelancers to people or businesses looking to hire, encouraging a wide range of services in a free market.</p>
+   <img width="40px" src="https://cracklead.com/icms-images/full/2023/09/1632813519784.jpeg">&nbsp; &nbsp; <strong>Front End Web Developer</strong>
+    <p><strong>National Freelance Training Program · Internship</strong></p>
+    <p><strong>Sep 2021 - Mar 2022</strong></p>
+    <p><strong>Punjab, Pakistan · Hybrid</strong></p>
+    <p>National Freelance Training Program (NFTP) has been designed which provides contemporary training to aspiring freelancers across all provinces of Pakistan</p>
     
    <h6>My Job responsibilities in App Solvers Technologies included:</h6>
     <ul>
-        <li>Proactively acquire clients by marketing services, maintaining a strong online presence, effectively managing multiple projects simultaneously, and building professional relationships. Deliver excellent customer service, manage client expectations, and negotiate fair compensation to maximize earning potential.</li>
+        <li> During this service, I worked on different types of front-end tasks, making mobile responsive websites, portfolio sites, login forms, calculators, header, footers, galleries & nav-bars, etc.</li>
         <li>Creating visually appealing and interactive user interfaces by utilizing HTML, CSS, and JavaScript to enhance the user experience and optimize website performance.</li>
-    </ul>
-   <h6>Skills:</h6>
-         <pre style="padding-left: 15px;">PHP · JavaScript · jQuery · Interpersonal Communication · Databases · WordPress</pre>
-
-   <img width="70px" src="https://cracklead.com/icms-images/full/2023/09/1632813519784.jpeg">&nbsp; &nbsp; <strong>PHP Web Developer</strong>
-    <p><strong>APP SOLVERS · Contract</strong></p>
-    <p><strong>Jun 2022 - Aug 2022</strong></p>
-    <p><strong>Multan District, Punjab, Pakistan · On-site</strong></p>
-    <p>App Solvers is one of the fastest-growing software development companies in Multan, Pakistan.</p>
-    
-   <h6>My Job responsibilities in App Solvers Technologies included:</h6>
-    <ul>
-        <li><strong>Final Year Projects: </strong>Develop Final Year Projects Using specialized Coding skills in PHP, SQL, JavaScript, etc. Create an FYP Library Management System, E-commerce, Cinema Management System and jobs Management System. etc.</li>
-        <li><strong> PHP-Based Web Applications: </strong>Creating visually appealing and interactive user interfaces by utilizing HTML, CSS, and JavaScript to enhance the user experience and optimize website performance.</li>
     </ul>
    <h6>Skills:</h6>
          <pre style="padding-left: 15px;">JavaScript · jQuery · Content Management Systems (CMS) · Responsive Web Design · HTML5 · Cascading Style Sheets (CSS) · Bootstrap</pre>

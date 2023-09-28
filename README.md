@@ -4,14 +4,14 @@
 
 ### Connect with me:
 
- <p align="left>
-      <a href="https://www.linkedin.com/in/shoaib-sohail/" target="blank"><img align="center"
+ <p align="left">
+      <a href="https://linkedin.com/in/shoaib-sohail" target="_blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png"
          alt="LinkedIn" title="Visit Linkedin Profile" height="30"/></a>
-      <a href="https://wa.me/+923491716494/" target="blank"><img align="center"
+      <a href="https://wa.me/+923491716494/" target="_blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/whatsapp-logo-hd-18.png"
          alt="WhatsApp" title="Contact Vis WhatsApp" height="30"/></a>
-      <a href="https://m-shoaib.com/" target="blank"><img align="center"
+      <a href="https://m-shoaib.com/" target="_blank"><img align="center"
          src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png"
          alt="Website" title="Visit My Portfolio" height="35"/></a>
       <br>
